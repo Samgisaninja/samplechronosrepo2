@@ -3,16 +3,36 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>Author</key>
-		<string>Sam Gardner</string>
-		<key>BundleID</key>
-		<string>com.samgisaninja.SuccessionRestore</string>
-		<key>Download Link</key>
-		<string>https://downloadlink.com</string>
-		<key>Name</key>
-		<string>Succession</string>
-		<key>Version</key>
-		<string>0.0.4</string>
+		<key>RepoName</key>
+		<string>Sample Chronos Repo</string>
 	</dict>
+	<array>
+		<dict>
+			<key>Author</key>
+			<string>Sam Gardner</string>
+			<key>BundleID</key>
+			<string>com.samgisaninja.SuccessionRestore</string>
+			<key>Description</key>
+			<string>https://pastebin.com/raw/a7bVrzmf</string>
+			<key>Download Link</key>
+			<string>https://github.com/Samgisaninja/samplechronosrepo2/blob/master/com.samgisaninja.betterglyphs-1.5.deb?raw=true</string>
+			<key>Icon</key>
+			<string>https://i.imgur.com/979F5VD.png</string>
+			<key>Name</key>
+			<string>Succession</string>
+			<key>Version</key>
+			<string>0.0.4</string>
+			<key>compatible-watchos</key>
+			<array>
+				<string>3.0</string>
+				<string>3.1</string>
+				<string>3.1.1</string>
+				<string>3.1.3</string>
+				<string>3.2</string>
+				<string>3.2.2</string>
+				<string>3.2.3</string>
+			</array>
+		</dict>
+	</array>
 </array>
 </plist>
